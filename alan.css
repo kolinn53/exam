@@ -1,0 +1,65 @@
+<style>
+
+a[href*="//"]:not([href*="codepen.io"]){
+ background-color: #3FA09D;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 4px;
+}
+a{
+   background-color: #F26522;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 4px;
+}
+
+body{
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.list{
+    	float: right;
+    	text-decoration-color: red;
+}
+.centermain{
+    	text-align: center;
+}
+.bgcolor{
+    	background-color: #02feff;
+}
+.oval {
+        width: 180px;
+  		height: 280px;
+  		border-radius: 50%;
+  			
+}
+.imgmid{
+	justify-content: center;
+  			display: flex;
+}
+.interesting{
+			font: 14px 'Leckerli One', Helvetica, sans-serif;
+  			color: #000;
+  			text-shadow: 2px 2px 0px rgba(0,0,0,0.2), 4px 4px 8px rgba(0,0,0,0.2);
+  			padding-left: 10%; 
+  			padding-right: 10%;
+}
+.bright{
+	color: red;
+}
+h1,h2{
+	text-align: center;
+	color: blue;
+	text-underline-position: true;
+}
+p{
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: justify;
+}
+</style>
